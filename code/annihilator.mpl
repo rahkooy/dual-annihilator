@@ -1,6 +1,7 @@
 ##
-##   This is an aextended and development on top of of the following in order to compute  the dual of an arbitrary ideal (NOT necessarily m-primary) 
-##   UP TO A GIVEN DEGREE
+##   This is an aextended and development on top of of the following,
+##   for computing the recurrence relations of a given multi-dimensional sequence
+##   The original code computes the dual of an m-primary ideal. 
 ##   Hamid.Rahkooy@maths.ox.ac.uk, 2024, Oxford
 ##   =============================================================
 ##
