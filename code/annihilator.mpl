@@ -1,5 +1,5 @@
 ##
-##   This is an aextended and development on top of of the following,
+##   This is an extension and development on top of of the following,
 ##   for computing the recurrence relations of a given multi-dimensional sequence
 ##   The original code computes the dual of an m-primary ideal. 
 ##   Hamid.Rahkooy@maths.ox.ac.uk, 2024, Oxford
